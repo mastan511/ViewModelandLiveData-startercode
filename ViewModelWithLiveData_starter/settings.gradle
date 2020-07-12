@@ -1,0 +1,2 @@
+rootProject.name='ViewModelWithLiveData_starter'
+include ':app'
